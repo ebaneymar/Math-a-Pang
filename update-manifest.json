@@ -1,21 +1,17 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "published": "2026-08-10",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.2.0.zip",
-  "sha256": "2ef04009be02b2c3c43a98e9c471c77f5c014663b7a68b096ec0cbb39c3472f0",
-  "size": 546047,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.2.1.zip",
+  "sha256": "782f7944ce9d55b1310e2f5b8435d71996da9b21f9910c28d6ffcd3d9c70db61",
+  "size": 546136,
   "notes": [
-    "Separate Classic, Power-Up, Event, and Boss leaderboards",
-    "Tournament Classic or Power-Up battle selector",
-    "Classic, Special Event, or Mixed tournament round selector",
-    "Freeze, 50/50, and Shield power-ups",
-    "Fever Mode with streak effects and bonus Math Coins",
-    "Class Boss co-op mode with independent Boss Points",
-    "Daily and weekly challenges with Math Coin rewards",
-    "Progress Hub shop with titles, borders, hats, and themes",
-    "Tournament and Boss MVP highlights",
-    "Interactive home-screen student avatars"
+    "Startup stability hotfix",
+    "Removed obsolete license-check and heartbeat scripts",
+    "Removed stale single-instance lock that could prevent relaunch",
+    "Added StartupError.log diagnostics",
+    "Disabled GPU acceleration for broader PC compatibility",
+    "Preserves all v1.2.0 game modes, rankings, history, and progression"
   ]
 }
