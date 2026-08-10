@@ -1,15 +1,16 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "published": "2026-08-10",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.1.0.zip",
-  "sha256": "4424960093afb4751186f8661bab09e2b0a87d3e66c44330ffb7346d6dc9a532",
-  "size": 493477,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.1.1.zip",
+  "sha256": "83aedb2185cc6701206caf1c73ab4c1f7649f93fe01fac2a8fb103d50d2131cc",
+  "size": 505202,
   "notes": [
-    "Built-in online updater",
-    "Change Name fix",
-    "Tournament roster/save/load fixes",
-    "Match RP results and Top 3 rank glow"
+    "Cleaned and modernized Tournament roster UI",
+    "Improved fonts, spacing, and text overflow handling",
+    "Compact icon actions for Rename, Stats, and Delete",
+    "Balanced opening screen layout",
+    "Removed the HTML OFFLINE badge"
   ]
 }
