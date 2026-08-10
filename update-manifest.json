@@ -1,17 +1,19 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "published": "2026-08-10",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.2.1.zip",
-  "sha256": "782f7944ce9d55b1310e2f5b8435d71996da9b21f9910c28d6ffcd3d9c70db61",
-  "size": 546136,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.2.3.zip",
+  "sha256": "8e40488d8e7fbd762d70e133e655e892498b06051dfec207d0ca4f214c56606a",
+  "size": 560863,
   "notes": [
-    "Startup stability hotfix",
-    "Removed obsolete license-check and heartbeat scripts",
-    "Removed stale single-instance lock that could prevent relaunch",
-    "Added StartupError.log diagnostics",
-    "Disabled GPU acceleration for broader PC compatibility",
-    "Preserves all v1.2.0 game modes, rankings, history, and progression"
+    "Rankings button added beside Tournament and on the bracket",
+    "Official 3rd Place Match added",
+    "Odd Round-of-3 / Round-of-5 brackets use later-round performance and Battle Score for bronze qualification",
+    "Battle Score is damage dealt before elimination",
+    "3-player tournaments automatically award the only non-finalist 3rd place",
+    "Restart Match added during tournament battles",
+    "Replay Last Match added on bracket and result screens",
+    "Restart/replay rolls back RP, wins, medals, Math Coins, stats and Tournament History before replay"
   ]
 }
