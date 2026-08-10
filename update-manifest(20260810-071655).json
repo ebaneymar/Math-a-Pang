@@ -1,0 +1,17 @@
+{
+  "app": "MATH-a-PANG",
+  "version": "1.2.5",
+  "published": "2026-08-10",
+  "packageType": "app",
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.2.5.zip",
+  "sha256": "f94a56545e4f831e9ccfe57ce019130ec7ff9cedafc51cf60debad1009883b94",
+  "size": 589402,
+  "notes": [
+    "Math Explorer now automatically evolves based on overall wins",
+    "First overall win changes the default title to FIRST FLAME",
+    "Student names gain animated fire glow immediately after their first win",
+    "Higher win milestones upgrade the title and name glow",
+    "Manually equipped custom titles override automatic progression titles",
+    "Fixed Progress Hub student dropdown so changing student immediately refreshes profile, coins, challenges and cosmetics"
+  ]
+}
