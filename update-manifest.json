@@ -1,19 +1,17 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "published": "2026-08-10",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.2.3.zip",
-  "sha256": "8e40488d8e7fbd762d70e133e655e892498b06051dfec207d0ca4f214c56606a",
-  "size": 560863,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.2.4.zip",
+  "sha256": "21a2cd828ecf7f0a33791338fd468acbc4635ef924677cb25490268e167abbba",
+  "size": 578371,
   "notes": [
-    "Rankings button added beside Tournament and on the bracket",
-    "Official 3rd Place Match added",
-    "Odd Round-of-3 / Round-of-5 brackets use later-round performance and Battle Score for bronze qualification",
-    "Battle Score is damage dealt before elimination",
-    "3-player tournaments automatically award the only non-finalist 3rd place",
-    "Restart Match added during tournament battles",
-    "Replay Last Match added on bracket and result screens",
-    "Restart/replay rolls back RP, wins, medals, Math Coins, stats and Tournament History before replay"
+    "Fixed hats so equipped accessories render over actual student portraits",
+    "Added Glasses shop category with classic glasses, cool shades, goggles, neon shades and star glasses",
+    "Added neon blue, neon pink, neon green and legendary rainbow borders",
+    "Cosmetics now render in Tournament roster and battles, Multiplayer, Class Boss, podium and Hall of Champions",
+    "Added automatic overall-win aura: 5 cyan, 10 gold, 20 electric blue, 35 crystal purple, 50+ legendary rainbow",
+    "Added visible overall-win badge on decorated portraits"
   ]
 }
