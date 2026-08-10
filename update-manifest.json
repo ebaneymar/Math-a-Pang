@@ -1,16 +1,16 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "published": "2026-08-10",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.1.1.zip",
-  "sha256": "83aedb2185cc6701206caf1c73ab4c1f7649f93fe01fac2a8fb103d50d2131cc",
-  "size": 505202,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.1.3.zip",
+  "sha256": "f9186beae70df13ca25bbd8f7acac2342ed85d0ec5eca6b2c7ba5235c9135a4a",
+  "size": 512457,
   "notes": [
-    "Cleaned and modernized Tournament roster UI",
-    "Improved fonts, spacing, and text overflow handling",
-    "Compact icon actions for Rename, Stats, and Delete",
-    "Balanced opening screen layout",
-    "Removed the HTML OFFLINE badge"
+    "Hall of Champions now uses a Top 3 podium plus ranked list",
+    "Hall contains Tournament champions only and ranks by championships won",
+    "Added Tournament Name and Tournament Date",
+    "Added automatic Tournament History log",
+    "History saves champion, runner-up, participants, date, and RP"
   ]
 }
