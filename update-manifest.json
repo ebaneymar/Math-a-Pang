@@ -1,19 +1,17 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.2.6",
+  "version": "1.4.9",
   "published": "2026-08-10",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.2.6.zip",
-  "sha256": "efcd2a6482a3d0420131be3ac6df6046227de638094186c3719c82bb792509b1",
-  "size": 589326,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.4.9.zip",
+  "sha256": "61e53e066526aba9f9c035f9cd90ebce25e59b9b7daaf4d012a81c27aab55624",
+  "size": 5589794,
   "notes": [
-    "Special animated name rewards now start at 10 overall wins instead of 1",
-    "10 wins: Fire name effect",
-    "20 wins: Poison/Venom green glow with bubble effect",
-    "35 wins: Golden animated name",
-    "50 wins: Freezing/Ice name effect",
-    "100 wins: Legendary rainbow name effect",
-    "Math Explorer remains normal from 0 to 9 wins",
-    "Progress Hub student dropdown fix retained"
+    "Moved the competitive rank icon beside each Tournament roster student name",
+    "Split long display labels so the actual student name can fit cleanly",
+    "Added stronger automatic font shrinking for long student names",
+    "Kept only Rank Points in the lower competitive-rank row",
+    "Kept compact Tournament roster cards with decorative effects attached below the card",
+    "Preserved premium Avatar Borders, cosmetics, rankings, tournament data, and local save compatibility"
   ]
 }
