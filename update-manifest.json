@@ -1,17 +1,21 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "published": "2026-08-11",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.6.1.zip",
-  "sha256": "c95d2e1e51c72eee5cea0e7a327f441bea5b5b1fa4bf7c956b0d6c95981c56e0",
-  "size": 5614880,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.6.2.zip",
+  "sha256": "bf828445f3cf113a72659d0dc4fd9071303d824f1e27f0eefd40f4aca3996451",
+  "size": 5619810,
   "notes": [
-    "Fixed lag/stuck behavior when Rank #1 or high-win students enter Tournament battle",
-    "Automatic win-orbit and name milestone animations are now character-selection only",
-    "Top 1/2/3 battle rank effects are lightweight static outlines instead of infinite glow animations",
-    "Gold/silver/bronze choices, crown/rank badge, RP, rankings and rewards are unchanged",
-    "Removed obsolete 150ms HP and 180ms answer-color polling loops from previous temporary layout fixes",
-    "Restored v1.2.5 battle layout and HP layout remain unchanged"
+    "Restored the moving clouds/sun battle scenery, including Lite FX mode",
+    "Removed permanent fighter idle animation so decorated high-rank students do not repaint continuously",
+    "Replaced heavy hurt brightness/filter animation with lightweight transform/opacity feedback",
+    "Disabled whole-arena screen shake and reduced hit particle count",
+    "Removed document-wide timer style observation and the old 350ms answer polling loop",
+    "Removed battle backdrop blur and premium-border drop-shadow filters while preserving the actual cosmetics",
+    "Rank #1/#2/#3 identity and special answer colors remain but persistent battle glows are static",
+    "Blue and Red now use one identical battle name/rank header with competitive rank icon, leaderboard rank and RP",
+    "Selection-only fire/name effects and circling win aura remain available in Tournament character selection",
+    "v1.2.5 battle geometry and HP layout remain unchanged"
   ]
 }
