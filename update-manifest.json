@@ -1,18 +1,15 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.5.0",
+  "version": "1.5.7",
   "published": "2026-08-11",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.5.0.zip",
-  "sha256": "b5ae57ad05e4f7b42606fd4c1b22538141eae551585e42564ec0c6d181744492",
-  "size": 5597041,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.5.7.zip",
+  "sha256": "39167e61cdc96dda512db2de3f817305f3eff08aca5af11f6e8220a9c7ccb504",
+  "size": 5609614,
   "notes": [
-    "Restored Tournament HP bars and centered HP numbers inside the bars",
-    "HP bars are anchored inside the visible battle arena",
-    "Added Continue Tournament for unfinished brackets",
-    "Active Tournament state persists when leaving Game Modes or closing the game",
-    "Current round, match, BYEs, match winners, rules, and pending 3rd-place state are preserved",
-    "Leaving during a match returns safely to the same pending match from the bracket",
-    "Existing roster, rankings, RP, cosmetics, premium borders, and Tournament History remain compatible"
+    "Restored the v1.2.5-style circling overall-win glow in Tournament character selection",
+    "Selection aura now renders above premium Avatar Borders so it cannot be hidden",
+    "Uses the original 5, 10, 20, 35, and 50 overall-win aura milestones",
+    "Preserves v1.5.6 higher character positioning, fixed HP bars, team answer colors, hover-pop, and Continue Tournament"
   ]
 }
