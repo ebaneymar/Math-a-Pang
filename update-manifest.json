@@ -1,21 +1,17 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "published": "2026-08-11",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.6.2.zip",
-  "sha256": "bf828445f3cf113a72659d0dc4fd9071303d824f1e27f0eefd40f4aca3996451",
-  "size": 5619810,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.6.3.zip",
+  "sha256": "ba3d83e8ab4ae82f90418b7113b218301289ea394d375773c4bb43f4a7f66241",
+  "size": 5574045,
   "notes": [
-    "Restored the moving clouds/sun battle scenery, including Lite FX mode",
-    "Removed permanent fighter idle animation so decorated high-rank students do not repaint continuously",
-    "Replaced heavy hurt brightness/filter animation with lightweight transform/opacity feedback",
-    "Disabled whole-arena screen shake and reduced hit particle count",
-    "Removed document-wide timer style observation and the old 350ms answer polling loop",
-    "Removed battle backdrop blur and premium-border drop-shadow filters while preserving the actual cosmetics",
-    "Rank #1/#2/#3 identity and special answer colors remain but persistent battle glows are static",
-    "Blue and Red now use one identical battle name/rank header with competitive rank icon, leaderboard rank and RP",
-    "Selection-only fire/name effects and circling win aura remain available in Tournament character selection",
-    "v1.2.5 battle geometry and HP layout remain unchanged"
+    "Tournament battle layout restored directly from the user-provided 01_MathQuest_Enhanced_Combined(2).html battle screen",
+    "Removed later battle-layout wrappers, portrait-card decorators, floating battle stats, battle cosmetic overlays and repeated battle layout patches",
+    "Kept current Tournament logic, saves, Continue Tournament, rankings, RP, competitive rank tiers and rank icons",
+    "Blue and Red use the same lightweight rank icon/name display",
+    "Gold/silver/bronze rank border and answer colors are static; moving rank glow is disabled",
+    "Selection-only fire name effect and circling win aura remain outside battle"
   ]
 }
