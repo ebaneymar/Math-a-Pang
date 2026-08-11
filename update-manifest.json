@@ -1,15 +1,16 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "published": "2026-08-11",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.5.7.zip",
-  "sha256": "39167e61cdc96dda512db2de3f817305f3eff08aca5af11f6e8220a9c7ccb504",
-  "size": 5609614,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.5.8.zip",
+  "sha256": "b7a20824c39f27f047f5f3aa9515897f0a291167c93cc6dfbe5b4d21024cdc88",
+  "size": 5614159,
   "notes": [
-    "Restored the v1.2.5-style circling overall-win glow in Tournament character selection",
-    "Selection aura now renders above premium Avatar Borders so it cannot be hidden",
-    "Uses the original 5, 10, 20, 35, and 50 overall-win aura milestones",
-    "Preserves v1.5.6 higher character positioning, fixed HP bars, team answer colors, hover-pop, and Continue Tournament"
+    "Restored the Tournament battle layout geometry from v1.2.5",
+    "Restored the original in-card HP bar layout from v1.2.5",
+    "Kept current rankings, rank tiers, Top 3 colors, name effects, cosmetics, premium borders, selection aura, hover-pop, and Continue Tournament",
+    "Removed only the later battle-layout overrides from winning the final CSS cascade",
+    "Tournament game logic and current save data remain unchanged"
   ]
 }
