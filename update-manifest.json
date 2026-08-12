@@ -1,15 +1,17 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.7.3",
+  "version": "1.7.4",
   "published": "2026-08-12",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.7.3.zip",
-  "sha256": "be334c722a578ac8a1caf226aaeac0878e1d7edf244b1ed30108ddb3485925f8",
-  "size": 5588570,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.7.4.zip",
+  "sha256": "562f70e5337f90a0edba8a4ea91220bffe5b89078a295674d4744c480734d49a",
+  "size": 5588611,
   "notes": [
-    "Fixed desktop updater package: main.js, preload.js and package.json are included again",
-    "Tutorial & Demo remains above Exit; Exit stays as the bottom home button",
-    "Grand Finals Best-of-3 with side swapping remains included",
-    "Attack / Heal / Defend strategy system remains included"
+    "Strategy choices now replace the normal answer choices instead of opening a popup",
+    "First successful move is always Attack; strategy choices begin on successful move 2",
+    "Action selection gets a separate 10-second strategy timer",
+    "First player is randomized independently of Blue/Red color",
+    "Attack / Heal / Defend applies to Multiplayer and Tournament",
+    "Grand Finals Best-of-3 with side swapping remains included"
   ]
 }
