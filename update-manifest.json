@@ -1,16 +1,19 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.7.6",
-  "published": "2026-08-12",
+  "version": "1.7.9",
+  "published": "2026-08-14",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.7.6.zip",
-  "sha256": "88b9c80966cb5f046f2c7580c9f7b63a10ce599b6bd544665b9a1ddfb2e06abf",
-  "size": 5765837,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.7.9.zip",
+  "sha256": "7cf13e55438e91b917b65695ff7a38ad80142103944496c4b2b4cc4e693c35fa",
+  "size": 5789834,
   "notes": [
-    "Added a 10-second Grand Finals finalist introduction before Finals Game 1",
-    "Finals intro uses the audio from the teacher-provided reference video",
-    "Each finalist is introduced with photo, name, rank, RP, and championship count",
-    "Games 2 and 3 skip the full introduction and go straight to the next championship match",
-    "3rd Place Match remains before the Championship and Finals remains Best-of-3"
+    "Group Battle now has a colorful classroom team-league design without changing the individual Tournament",
+    "Blue and Red groups can type and save their own custom group names",
+    "Saved groups remember their student members and can be renamed from Group Rankings",
+    "Added separate Group Rankings using Championships, Group RP and Wins",
+    "Added group wins, losses, matches, Group RP and rank tiers",
+    "Added a separate 2\u20138 group single-elimination Group Tournament bracket",
+    "Group Tournament winners advance automatically and champions earn a title plus 300 Group RP",
+    "Group Battle keeps the 30 HP damage cap, strategy choices and Teacher Forfeit control"
   ]
 }
