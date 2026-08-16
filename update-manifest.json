@@ -1,21 +1,19 @@
 {
   "app": "MATH-a-PANG",
-  "version": "1.8.0",
-  "published": "2026-08-14",
+  "version": "1.8.1",
+  "published": "2026-08-16",
   "packageType": "app",
-  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.8.0.zip",
-  "sha256": "88741a2d75952d322e6029a3ee8335c34a8ab8ec387f0f3bd1d343ec65e04109",
-  "size": 5769758,
+  "downloadUrl": "https://raw.githubusercontent.com/ebaneymar/Math-a-Pang/main/MATH-a-PANG_Update_1.8.1.zip",
+  "sha256": "a34066ac44b1b3c237193b2bc5ae727a2b2451ecd871c5d6085c88c5b3c562bb",
+  "size": 5774501,
   "notes": [
-    "Group Battle now uses the clean Tournament-style battle layout so fighter HP bars and HP numbers stay visible",
-    "Removed old Multiplayer-only battle decorators so Group Battle now follows the Tournament battle structure consistently",
-    "Removed historical Multiplayer cosmetic wrappers that could move reserve portraits above the HP bar",
-    "Removed the old free PALIT action from Group Battle; switching is now earned after a correct answer",
-    "Correct answers from successful move 2 onward offer Attack, Heal, Defend, or Switch",
-    "Switch lets the team choose any other living teammate and consumes the turn",
-    "When an active player reaches 0 HP, the game no longer auto-selects the reserve",
-    "After a KO the team must choose the next living player with no replacement timer",
-    "Dead or 0-HP teammates cannot be selected",
-    "30 HP maximum damage, Teacher Forfeit, Group Rankings, and Group Tournament remain included"
+    "Fight Victories are now universal across Adventure/Single Player, Multiplayer/Group Battle, Group Tournament, individual Tournament, 3rd Place, Grand Finals games, and Class Boss victories",
+    "Existing student win counters are now labeled Fight Victories",
+    "Adventure tries to match the selected character to the shared student roster by name so its victory updates the same student record",
+    "Class Boss victory gives +1 Fight Victory to every participating student",
+    "Group Battle strategy keyboard controls: Left/1 Attack, Up/2 Heal, Right/3 Defend, Down/4 Switch",
+    "After Switch or KO replacement opens, number keys 1\u20139 select the displayed living teammate",
+    "Strategy buttons now show their keyboard hints directly on screen",
+    "30 HP damage cap, Group Rankings, Group Tournament, Teacher Forfeit, and manual KO replacement remain included"
   ]
 }
